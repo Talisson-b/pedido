@@ -15,6 +15,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const botaoSim = document.querySelector('#botao-positivo')
 
     botaoSim.addEventListener('click', () => {
-        window.location.href = 'https://www.metropoles.com/colunas/pouca-vergonha/4-truques-para-fazer-um-sexo-anal-sem-dor-e-cheio-de-prazer'
+       alert('uhullll agora estamos casados, te amoooooo')
     })
 })
